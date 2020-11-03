@@ -1,0 +1,5 @@
+D:\code\FingerprintATM\FingerprintATM\bin\FingerprintATM.dll
+D:\code\FingerprintATM\FingerprintATM\bin\FingerprintATM.pdb
+D:\code\FingerprintATM\FingerprintATM\obj\Debug\FingerprintATM.dll
+D:\code\FingerprintATM\FingerprintATM\obj\Debug\FingerprintATM.pdb
+D:\code\FingerprintATM\FingerprintATM\obj\Debug\FingerprintATM.csprojResolveAssemblyReference.cache
